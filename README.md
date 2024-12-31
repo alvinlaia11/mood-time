@@ -124,7 +124,7 @@ MIT License - Lihat [LICENSE](LICENSE) untuk detail lengkap.
 
 Punya pertanyaan atau saran? Hubungi kami:
 - Email: [alvinlaia2004@gmail.com](mailto:alvinlaia2004@gmail.com)
-- GitHub Issues: [Buat Issue](https://github.com/username/mood-time/issues)
+- GitHub Issues: [Buat Issue](https://github.com/alvinlaia11/mood-time/issues)
 
 ---
 
