@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lingkaran Luar -->
+  <circle cx="256" cy="256" r="240" fill="url(#gradient)" />
+  
+  <!-- Mata -->
+  <circle cx="192" cy="213" r="24" fill="white" />
+  <circle cx="320" cy="213" r="24" fill="white" />
+  
+  <!-- Mulut -->
+  <path d="M192 320C192 320 224 352 256 352C288 352 320 320 320 320" stroke="white" stroke-width="24" stroke-linecap="round"/>
+  
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" style="stop-color:#4F46E5"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
